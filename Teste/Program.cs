@@ -11,6 +11,7 @@ namespace Teste
         static void Main(string[] args)
         {
             Console.WriteLine("TEste");
+            Console.WriteLine("Oi, sou o Goku");
         }
     }
 }
