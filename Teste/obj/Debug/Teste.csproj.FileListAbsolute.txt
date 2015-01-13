@@ -1,1 +1,2 @@
 D:\Drive\nBodyOpenGL\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\vcosta\Documents\Teste\Teste\bin\Debug\Teste.exe.config
